@@ -1,0 +1,4 @@
+*.in
+*.out
+*.pyc
+#ingnores .in, .out and .pyc files
